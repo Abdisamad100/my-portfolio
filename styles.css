@@ -1,0 +1,52 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:white;
+    }
+    .nav ul{
+    list-style: none;
+    background:#212529;
+    text-align:center;
+    padding:0;
+    margin:0;
+    }
+    .nav li{
+        display:inline-block;
+    }
+    .nav a{
+        text-decoration: none;
+        color:white;
+        width:100px;
+        display:block;
+        padding:20px;
+        font-size:20px;
+        font-family:'Courier New', Courier, monospace;
+        text-transform: uppercase;
+        
+    }
+    .home img{
+        padding-left: 300px;
+        padding-top: 100px;
+    }
+    aside{
+        width:50%;
+        float:right;
+        padding-right:30px;
+        padding-top:100px;
+    }
+    .home p{
+        font-size:20px;
+        font-family:'Courier New', Courier, monospace;
+    }
+    .home h2{
+        font-weight:50px;
+        text-transform:uppercase;
+    }
+    #skills{
+        padding-top:70px;
+    }
+    #skills h1{
+        font-weight:70px;
+        text-align:center;
+        text-transform: uppercase;
+    }
