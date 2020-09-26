@@ -2,6 +2,7 @@ body{
     margin:0;
     padding:0;
     background-color:white;
+    font-family:cursive;
     }
     .nav ul{
     list-style: none;
@@ -39,14 +40,14 @@ body{
     }
     .home p{
         font-size:20px;
-        font-family:'Courier New', Courier, monospace;
+        font-family:cursive;
     }
     .home h2{
-        font-weight:50px;
+        font-size:50px;
         text-transform:uppercase;
     }
     #line{
-        border:solid#212529;
+        border:1px solid#212529;
     }
     #about{
         padding-top:70px;
@@ -115,8 +116,23 @@ body{
     }
     #projects{
         font-size:25px;
+        font-family:cursive;
     }
     aside2{
         float:right;
+        color:white;
+    }
+    #contacts{
+        background-color:#212529;
+        height:40vh;
+        text-align:center;
+        color:white;
+    }
+    #contacts ul{
+        padding-top:10px;
+    }
+    #contacts h2{
+        font-size:50px;
+        padding-top:10px;
     }
         
