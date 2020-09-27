@@ -1,5 +1,4 @@
-# ![my-Portfolio](images/abdi.JPG  height:50px)
-# My-Portfolio
+# ![my-Portfolio](images/abdi.JPG)
 <table>
 <tr>
 <td>
