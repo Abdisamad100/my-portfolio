@@ -1,8 +1,7 @@
-# ![my-Portfolio](images/IMG_20200927_210120_130 (1).JPG)
+# ![my-Portfolio](images/abdi.JPG)
 # My-Portfolio
 <table>
 <tr>
-# ![my-Portfolio](img/)
 <td>
   This is basically a portfolio website containing all about me i.e who i am, Education background, Work experience, Skills and Interest. It has different section namely name,about,skills, project and contact.
 </td>
