@@ -7,11 +7,11 @@
 </td>
 </tr>
 </table>
+
 ## Demo
 Here is a working live demo :  
 ## Mobile support
 The Portfolio is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-## [Usage]()
 ### Development
 Want to contribute? Awesome!
 To fix a bug or enhance an existing module, follow these steps:
