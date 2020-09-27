@@ -1,4 +1,4 @@
-# ![my-Portfolio](img/IMG_20200927_210120_130 (1).JPG)
+# ![my-Portfolio](images/IMG_20200927_210120_130 (1).JPG)
 # My-Portfolio
 <table>
 <tr>
