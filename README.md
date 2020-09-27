@@ -29,4 +29,4 @@ To fix a bug or enhance an existing module, follow these steps:
 - Abdisamad mohamed
 ## License
 [MIT](https://github.com/Abdisamad100/Portfolio/blob/master/LICENSE.md)
- © [Abdisamad Mohamed]
+ © [Abdisamad Mohamed] (https://github.com/Abdisamad100)
