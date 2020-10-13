@@ -1,4 +1,4 @@
-# ![my-Portfolio](images/abdi.JPG)
+# ![my-Portfolio]
 <table>
 <tr>
 <td>
